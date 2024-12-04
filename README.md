@@ -1,3 +1,5 @@
-hello, I am nobody.
-robotics makes me lose braincells
-@nobodyhere4 discord
+Programming languages currently proficent in:
+      -Java
+      -JavaScript
+      -HTML
+      -CSS
